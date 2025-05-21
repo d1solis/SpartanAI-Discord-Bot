@@ -4,6 +4,7 @@
 **SpartanAI** is a custom-built Discord bot for the *Spartan Army* — a Halo-inspired Twitch community hosted by **[Real Life Spartan (RLS)](https://reallifespartan.com/)**. SpartanAI helps with moderation, engagement, and hype — making your server feel like a real battlefield. 🔥
 
 ## 💡 Features
+ > **[VIEW SPARTAN FIELD MANUAL HERE FOR FULL LIST + SCREENSHOTS!](Screenshots/SpartanFieldManual.md)**
 - **Custom Commands:** Includes both slash and prefix commands like `/ping`, `/help`, `/hype`, `/8ball`, and more.
 - **Auto Greetings:** Sends welcome DMs and farewell messages to keep your server warm and active.
 - **Message Filtering:** Automatically deletes NSFW, political, and religious content to enforce server rules.
